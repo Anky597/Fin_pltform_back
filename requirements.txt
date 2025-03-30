@@ -3,4 +3,4 @@ joblib        # Replace with your joblib version
 pandas       # Replace with your pandas version
 numpy         # Replace with your numpy version
 scikit-learn  # Replace with your scikit-learn version
-# Add any other specific libraries you used
+gunicorn # Add any other specific libraries you used
